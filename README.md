@@ -4,11 +4,6 @@
 
 # 🖨️ Printers: Common Issues & Fixes
 
-> **🗣️ Printer Mantra**  
-> _"If it’s not the **spooler**, it’s the **driver**. If it’s not the driver — **unplug it**."_
-
----
-
 ## 📋 Common Issues at a Glance
 
 | # | **Issue**                                  | **Fix**                          |
