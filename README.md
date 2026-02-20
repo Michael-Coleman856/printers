@@ -2,9 +2,9 @@
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fdfcbd6c-3fdd-487c-9de9-77204746ee2f" />
 </p>
 
-# 🖨️ Printers: Common Issues & Fixes
+🖨️ Printers: Common Issues & Fixes
 
-## 📋 Common Issues at a Glance
+📋 Common Issues at a Glance
 
 | # | **Issue**                                  | **Fix**                          |
 |---|--------------------------------------------|----------------------------------|
